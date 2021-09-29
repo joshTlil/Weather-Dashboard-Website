@@ -1,0 +1,40 @@
+.weather {
+    display: grid;
+    box-sizing: border-box;
+    width: 50%;
+  height: 70%;
+  padding:15px;
+  border: 8px solid lightblue;
+
+}
+
+.container {
+    flex-direction: column;
+    width: 40%;
+    height:100%;
+   
+}
+
+.btn-primary {
+    flex-direction: column;
+    display: grid;
+    gap: 30%;
+    
+}
+
+.container2 {
+    width: 20%;
+    height: 25%;
+    justify-content: center;
+    display: flex;
+
+}
+
+.col {
+    
+   
+    background-color: cadetblue;
+    width: 100px;
+    height: 80px;
+
+}
